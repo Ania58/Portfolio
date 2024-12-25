@@ -124,6 +124,7 @@ h2.text-center {
     height: 300px;
     max-width: 100%;
     border-radius: 50%;
+    object-fit: contain;
 }
 
 .card {
@@ -180,5 +181,10 @@ h2.text-center {
 
     .job-title {
         font-size: 1rem;
+    }
+
+    .dev-image {
+        max-width: 150px; 
+        height: auto
     }
 }
