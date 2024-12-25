@@ -220,6 +220,8 @@ footer p {
     .dev-image {
         height: 200px;
         width: 200px;
+        display: block;
+        margin: 0 auto;
     }
 
     .lead {
@@ -251,6 +253,8 @@ footer p {
 
     .dev-image {
         max-width: 150px; 
-        height: auto
+        height: auto;
+        display: block;
+        margin: 0 auto; 
     }
 }
